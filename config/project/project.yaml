@@ -1,0 +1,22 @@
+dateModified: 1704838292
+email:
+  fromEmail: tech@daytwo.no
+  fromName: TESTING
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    045f2ead-d8f0-40d1-bd15-61619373d6d8: Common # Common
+    a7cb3ba7-49cf-4429-bd10-6ffbf29b9116: TESTING # TESTING
+    c74f45b2-b393-4d26-aea7-9bee5a8fe636: TESTING # TESTING
+system:
+  edition: solo
+  live: true
+  name: TESTING
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
